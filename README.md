@@ -1,3 +1,5 @@
+This gem includes the [Frappé Charts](https://github.com/frappe/charts) libraries in your Rails application.
+
 ## Installation
 
 Add this line to your application's Gemfile:
